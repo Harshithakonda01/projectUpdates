@@ -1,0 +1,16 @@
+	3-10-2023
+# added Model field to Job-Model to Hold device model
+# added Serial Number to Job-Model to Hold device serial number
+# CIDN/SIDN pending for Models CustomerRegistration, Job
+# Filled Model field of JOB-Model with random models from list
+# Now Homepage has Better Info on Services
+# Modified DJ filter to work with New Field in JOB-Model
+
+    8-10-2023
+# Fixed Bug which has improper Strobe Size on record ID
+# Added Vertical and Horizontal navbars
+
+    9-10-2023
+# Icons inserted in vertical navbar
+
+
