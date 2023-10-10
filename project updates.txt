@@ -1,4 +1,4 @@
-	3-10-2023
+    3-10-2023
 # added Model field to Job-Model to Hold device model
 # added Serial Number to Job-Model to Hold device serial number
 # CIDN/SIDN pending for Models CustomerRegistration, Job
@@ -13,6 +13,10 @@
     9-10-2023
 # Icons inserted in vertical navbar
 # created Repository to track updates
+
+    10-10-2023
+# Customized info Tiles on Console Page
+
 
 
 
