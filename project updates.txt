@@ -21,7 +21,11 @@
 # initialized HTMX to activate navigation Buttons
 
     11-10-2023
-# 
+# Made changes to DB table Customerregistration by adding Coloumn EngagementTier (Elite, Regular, Basic, Caution)
+# Created dedicated APP for console
+# Completed visualization of Customers DB on Console Page
+# Completed View Customer for CUStomerDB page
+
 
 
 
