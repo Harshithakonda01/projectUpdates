@@ -15,7 +15,14 @@
 # created Repository to track updates
 
     10-10-2023
-# Customized info Tiles on Console Page
+# Customized info for Tiles on Console Page
+# refactored console code and shifted to console.html
+# Added more navigation icons and allocated area for content
+# initialized HTMX to activate navigation Buttons
+
+    11-10-2023
+# 
+
 
 
 
